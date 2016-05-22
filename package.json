@@ -1,0 +1,12 @@
+{
+	"name": "frisby2",
+	"version": "1.0.0",
+	"description": "A wrapper to use frisby and frisby2 next to each other",
+	"main": "./frisby2.js",
+	"license": {
+		"type": "BSD"
+	},
+	"dependencies": [
+		"frisby": "https://github.com/vlucas/frisby/archive/v2.zip"
+	]
+}
