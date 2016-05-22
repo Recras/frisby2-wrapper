@@ -4,9 +4,13 @@
 	"description": "A wrapper to use frisby and frisby2 next to each other",
 	"main": "./frisby2.js",
 	"license": {
-		"type": "BSD"
+		"type": "BSD-3-Clause"
 	},
 	"dependencies": {
-		"frisby": "https://github.com/vlucas/frisby/archive/v2.zip"
+		"frisby": "git://github.com/vlucas/frisby.git#v2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:nederdirk/frisby2-wrapper.git"
 	}
 }
