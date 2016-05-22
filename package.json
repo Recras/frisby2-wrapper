@@ -6,7 +6,7 @@
 	"license": {
 		"type": "BSD"
 	},
-	"dependencies": [
+	"dependencies": {
 		"frisby": "https://github.com/vlucas/frisby/archive/v2.zip"
-	]
+	}
 }
