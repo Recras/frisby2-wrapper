@@ -7,7 +7,7 @@
 		"type": "BSD-3-Clause"
 	},
 	"dependencies": {
-		"frisby": "git://github.com/vlucas/frisby.git#v2"
+		"frisby": "git://github.com/vlucas/frisby.git#e786f05f344613436cd1fcfa88ee12b5a381f96e"
 	},
 	"repository": {
 		"type": "git",
